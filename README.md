@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Benjamin Montenegro 👋
 
-<!--
-**BenjaminMontenegro16/BenjaminMontenegro16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Backend Engineer | CS Student
+I am a 14-year-old developer from Misiones, Argentina, dedicated to mastering the foundations of Computer Science and building high-performance systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently Learning
+- **Computer Science Fundamentals:** Studying Harvard's [CS50](https://cs50.harvard.edu/x/) 🎓
+- **Languages:** Python & C (Logic-focused) 🐍
+- **Goal:** Future Backend Engineer 🏎️
+
+### 📊 GitHub Stats
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminMontenegro16&show_icons=true&theme=dark)
+
+### 📬 Connect with me
+[![X (Twitter) Follow](https://img.shields.io/twitter/follow/BenjaMon_Dev?style=social)](https://x.com/BenjaMon_Dev)
