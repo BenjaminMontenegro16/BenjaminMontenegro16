@@ -7,8 +7,8 @@ I am a 14-year-old developer from Misiones, Argentina, dedicated to mastering th
 
 ### 🛠️ Currently Learning
 - **Computer Science Fundamentals:** Studying Harvard's [CS50](https://cs50.harvard.edu/x/) 🎓
-- **Languages:** Python & C (Logic-focused) 🐍
-- **Goal:** Future Backend Engineer 🏎️
+- **Languages:** Python & C (Logic-focused) 
+- **Goal:** Future Backend Engineer 💻
 
 ### 📬 Connect with me
 [![X (Twitter) Follow](https://img.shields.io/twitter/follow/BenjaMon_Dev?style=social)](https://x.com/BenjaMon_Dev)
