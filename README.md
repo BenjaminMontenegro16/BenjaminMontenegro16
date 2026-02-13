@@ -6,7 +6,7 @@ I am a 14-year-old developer from Misiones, Argentina, dedicated to mastering th
 ---
 
 ### 🛠️ Currently Learning
-- **Computer Science Fundamentals:** Studying Harvard's [CS50](https://cs50.harvard.edu/x/) 🎓
+- **Computer Science Fundamentals:** Studying Harvard's [CS50P]([https://cs50.harvard.edu/python/]) 🎓
 - **Languages:** Python & C (Logic-focused) 
 - **Goal:** Future Backend Engineer 💻
 
