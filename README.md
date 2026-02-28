@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/BenjaMon_Dev">
-    <img src="https://img.shields.io/twitter/follow/BenjaMon_Dev?style=for-the-badge&logo=twitter&color=1DA1F2&labelColor=0d1117&label=Follow%20%40BenjaMon_Dev" alt="Twitter Follow"/>
+    <img src="https://img.shields.io/twitter/follow/BenjaMon_Dev?style=for-the-badge&color=1DA1F2&labelColor=0d1117&label=Follow%20%40BenjaMon_Dev" alt="Twitter Follow"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=BenjaminMontenegro16&style=for-the-badge&color=39d353&labelColor=0d1117&label=Profile+Views" alt="Profile Views"/>
@@ -45,7 +45,7 @@ class Benjamin:
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows"/>
 
 **Currently Learning**
 
@@ -60,15 +60,23 @@ class Benjamin:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenjaminMontenegro16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=39d353" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminMontenegro16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=BenjaminMontenegro16&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=39d353" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BenjaminMontenegro16&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=39d353" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenjaminMontenegro16&theme=github_dark" alt="Profile Summary" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenjaminMontenegro16&theme=github_dark" alt="Repos per Language" height="150em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenjaminMontenegro16&theme=github_dark" alt="Most Commit Language" height="150em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenjaminMontenegro16&theme=github_dark" alt="Stats" height="150em"/>
 
 </div>
 
