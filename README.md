@@ -70,7 +70,7 @@
 [██████████░░░░░░░░░░] CS50P                 → In Progress
 [████░░░░░░░░░░░░░░░░] Estructuras de datos   → Inicializing
 [██░░░░░░░░░░░░░░░░░░] Primer API REST        → Planning
-[░░░░░░░░░░░░░░░░░░░░] Proyecto backend real  → Soon™
+[░░░░░░░░░░░░░░░░░░░░] Proyecto backend real  → Soon
 ```
 
 ---
