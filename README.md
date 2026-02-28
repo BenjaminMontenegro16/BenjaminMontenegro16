@@ -54,23 +54,23 @@
 
 ## 🏗️ Projects
 
-> *En construcción — los mejores sistemas toman tiempo.* ⏳
+> *Under construction — great systems take time.* ⏳
 
-| Proyecto | Descripción | Stack | Estado |
+| Proyect | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🔧 CS50P Solutions | Mis soluciones al curso de Harvard | `Python` | 🟢 Activo |
-| 🌐 Coming soon... | Backend project #1 | `Python` `SQL` | 🔵 Planeando |
-| ⚙️ Coming soon... | Sistema de alta performance | `C` `Python` | 🔵 Planeando |
+| 🔧 CS50P Projects | My Personal projects while CS50P | `Python` | 🟢 Active |
+| 🌐 Coming soon... | Backend project #1 | `Python` `SQL` | 🔵 Planning |
+| ⚙️ Coming soon... | High performance system | `C` `Python` | 🔵 Planning |
 
 ---
 
 ## 🎯 2026 Roadmap
 
 ```
-[██████████░░░░░░░░░░] CS50P                 → En progreso
-[████░░░░░░░░░░░░░░░░] Estructuras de datos   → Iniciando
-[██░░░░░░░░░░░░░░░░░░] Primer API REST        → Planeando
-[░░░░░░░░░░░░░░░░░░░░] Proyecto backend real  → Pronto™
+[██████████░░░░░░░░░░] CS50P                 → In Progress
+[████░░░░░░░░░░░░░░░░] Estructuras de datos   → Inicializing
+[██░░░░░░░░░░░░░░░░░░] Primer API REST        → Planning
+[░░░░░░░░░░░░░░░░░░░░] Proyecto backend real  → Soon™
 ```
 
 ---
