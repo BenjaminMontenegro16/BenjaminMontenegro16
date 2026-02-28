@@ -2,15 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:39d353&height=200&section=header&text=Benjamin%20Montenegro&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Backend%20Engineer%20%7C%20CS%20Student&descSize=18&descAlignY=62&descColor=39d353)
 
-<p align="center">
-  <a href="https://twitter.com/BenjaMon_Dev">
-    <img src="https://img.shields.io/twitter/follow/BenjaMon_Dev?style=for-the-badge&color=1DA1F2&labelColor=0d1117&label=Follow%20%40BenjaMon_Dev" alt="Twitter Follow"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=BenjaminMontenegro16&style=for-the-badge&color=39d353&labelColor=0d1117&label=Profile+Views" alt="Profile Views"/>
-</p>
-
-</div>
 
 ---
 
