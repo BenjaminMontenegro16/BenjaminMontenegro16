@@ -64,22 +64,6 @@ class Benjamin:
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BenjaminMontenegro16&theme=github_dark" alt="Profile Summary" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenjaminMontenegro16&theme=github_dark" alt="Repos per Language" height="150em"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenjaminMontenegro16&theme=github_dark" alt="Most Commit Language" height="150em"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BenjaminMontenegro16&theme=github_dark" alt="Stats" height="150em"/>
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
@@ -104,7 +88,7 @@ class Benjamin:
 
 ---
 
-## 🎯 2026 Roadmap
+## 🎯 2025 Roadmap
 
 ```
 [██████████░░░░░░░░░░] CS50P                 → En progreso
