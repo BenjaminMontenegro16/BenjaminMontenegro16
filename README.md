@@ -6,6 +6,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FBenjaminMontenegro16%2Fvisits&color=4cae4f&style=for-the-badge&logo=github" alt="Views">
+</p>
+
+
 ## ⚡ Tech Stack
 
 <div align="center">
