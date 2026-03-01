@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.seeyoufarm.com%2Fapi%2Fcount%2Fincr%2Fbadge.svg%3Furl%3Dhttps%253A%252F%252Fgithub.com%252FBenjaminMontenegro16%2Fhits%26count_bg%3D%25234CAE4F%26title_bg%3D%2523263759%26icon%3Dgithub%26icon_color%3D%2523E7E7E7%26title%3DPROFILE%2520VIEWS%26edge_flat%3Dfalse" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=BenjaminMontenegro16&color=brightgreen&style=flat-square&label=Profile%20Views" alt="Views" />
 </p>
 
 
