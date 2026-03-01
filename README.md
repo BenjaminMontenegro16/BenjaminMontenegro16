@@ -70,14 +70,14 @@
 
 ---
 
-## 🎯 2026 Roadmap
+### 🎯 2026 Roadmap
 
-```
-[██████████░░░░░░░░░░] CS50P                 → In Progress
-[████░░░░░░░░░░░░░░░░] Estructuras de datos   → Inicializing
-[██░░░░░░░░░░░░░░░░░░] Primer API REST        → Planning
-[░░░░░░░░░░░░░░░░░░░░] Proyecto backend real  → Soon
-```
+| Goal | Progress | Status |
+| :--- | :--- | :--- |
+| **CS50P** | ![50%](https://geps.dev/progress/50) | `In Progress` |
+| **Data Structures** | ![20%](https://geps.dev/progress/20) | `Starting` |
+| **First REST API** | ![10%](https://geps.dev/progress/10) | `Planning` |
+| **Real Backend Project** | ![0%](https://geps.dev/progress/0) | `Coming Soon` |
 
 ---
 
