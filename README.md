@@ -74,10 +74,10 @@
 
 | Goal | Progress | Status |
 | :--- | :--- | :--- |
-| **CS50P** | ![50%](https://geps.dev/progress/50) | `In Progress` |
-| **Data Structures** | ![20%](https://geps.dev/progress/20) | `Starting` |
-| **First REST API** | ![10%](https://geps.dev/progress/10) | `Planning` |
-| **Real Backend Project** | ![0%](https://geps.dev/progress/0) | `Coming Soon` |
+| **CS50P** | ![50%](https://img.shields.io/badge/progress-50%25-4cae4f?style=flat-square) | ![In Progress](https://img.shields.io/badge/-In%20Progress-263759?style=flat-square) |
+| **Data Structures** | ![20%](https://img.shields.io/badge/progress-20%25-4cae4f?style=flat-square) | ![Starting](https://img.shields.io/badge/-Starting-263759?style=flat-square) |
+| **First REST API** | ![10%](https://img.shields.io/badge/progress-10%25-4cae4f?style=flat-square) | ![Planning](https://img.shields.io/badge/-Planning-263759?style=flat-square) |
+| **Real Backend Project** | ![0%](https://img.shields.io/badge/progress-0%25-4cae4f?style=flat-square) | ![Coming Soon](https://img.shields.io/badge/-Coming%20Soon-263759?style=flat-square) |
 
 ---
 
