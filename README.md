@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:39d353&height=200&section=header&text=Benjamin%20Montenegro&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Backend%20Engineer%20%7C%20CS%20Student&descSize=18&descAlignY=62&descColor=39d353)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:39d353&height=200&section=header&text=Benjamin%20Montenegro&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Backend%20Engineer%20%7C%20Self-taught%20CS50%20Student&descSize=18&descAlignY=62&descColor=39d353)
 
 
 
@@ -17,7 +17,6 @@
 **Languages**
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
 <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL"/>
 
 **Tools & Platforms**
@@ -25,12 +24,13 @@
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows"/>
 
 **Currently Learning**
 
-<img src="https://img.shields.io/badge/Backend_Development-0d1117?style=for-the-badge&logo=serverless&logoColor=39d353" alt="Backend"/>
-<img src="https://img.shields.io/badge/Algorithms_%26_Data_Structures-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="Algorithms"/>
+<img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css&logoColor=663399" alt="CSS"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
 
 </div>
 
@@ -73,20 +73,12 @@
 ---
 
 ## 📬 Connect
-
 <div align="center">
-
-<a href="https://twitter.com/BenjaMon_Dev">
-  <img src="https://img.shields.io/badge/@BenjaMon__Dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-&nbsp;
-<a href="mailto:benjax.rodeo@gmail.com">
-  <img src="https://img.shields.io/badge/benjax.rodeo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/BenjaminMontenegro16">
-  <img src="https://img.shields.io/badge/BenjaminMontenegro16-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://twitter.com/BenjaMon_Dev"><img src="https://img.shields.io/badge/BenjaMon__Dev-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/></a>
+<a href="https://t.me/BenjaMon_Dev"><img src="https://img.shields.io/badge/BenMon_Dev-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
+<a href="https://github.com/BenjaminMontenegro16"><img src="https://img.shields.io/badge/BenjaminMontenegro16-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:benjax.rodeo@gmail.com"><img src="https://img.shields.io/badge/benjax.rodeo@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
+</div>
 
 ---
 
