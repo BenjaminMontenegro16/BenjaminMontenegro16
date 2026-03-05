@@ -77,7 +77,6 @@
 <a href="https://twitter.com/BenjaMon_Dev"><img src="https://img.shields.io/badge/BenjaMon__Dev-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/></a>
 <a href="https://t.me/BenjaMon_Dev"><img src="https://img.shields.io/badge/BenMon__Dev-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/></a>
 <a href="https://www.reddit.com/user/BenjaMon_Dev/"><img src="https://img.shields.io/badge/BenjaMon__Dev-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit"/></a>
-<a href="https://github.com/BenjaminMontenegro16"><img src="https://img.shields.io/badge/BenjaminMontenegro16-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ---
