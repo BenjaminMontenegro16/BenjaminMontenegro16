@@ -66,9 +66,9 @@
 
 | Proyect | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🔧 CS50P Projects | My Personal projects while CS50P | `Python` | 🟢 Active |
-| 🌐 Coming soon... | Backend project #1 | `Python` `SQL` | 🔵 Planning |
-| ⚙️ Coming soon... | High performance system | `C` `Python` | 🔵 Planning |
+| 🤖 [CryptoAlertBot](https://github.com/BenjaminMontenegro16/Crypto-Alert-Bot-V2) | Telegram bot with 22 commands, price alerts, wallet tracking | `Python` `PostgreSQL` | 🟢 Finished |
+| 🔧 [CS50P Projects](https://github.com/BenjaminMontenegro16/CS50P) | My Personal projects while CS50P | `Python` | 🟢 Active |
+| 🌐 Coming soon... | Portfolio Website | `Python` `SQL` | 🔵 Planning |
 
 ---
 
