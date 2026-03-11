@@ -2,14 +2,24 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:39d353&height=200&section=header&text=Benjamin%20Montenegro&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Backend%20Engineer%20%7C%20Self-taught%20CS50%20Student&descSize=18&descAlignY=62&descColor=39d353)
 
-
+</div> 
 
 ---
 
-
-
+```python
+class Benjamin:
+    location  = "Misiones, Argentina 🌿"
+    role      = "Aspiring Backend Engineer"
+    studying  = ["Harvard CS50P 🎓", "Python", "Logic & Algorithms", "JavaScript"]
+    languages = ["English B2", "Spanish (Native)"]
+    
+    def say_hi(self):
+        print("Thanks for stopping by!")
+        print("Let's build something cool 🚀")
+```
+<div align="center">
+  
 ## ⚡ Tech Stack
-
 
 <div align="center">
 
