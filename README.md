@@ -92,7 +92,7 @@ class Benjamin:
 
 ---
 
-*"First, solve the problem. Then, write the code."*
+*"Talent doesn't choose morality."*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=80&section=footer)
 
