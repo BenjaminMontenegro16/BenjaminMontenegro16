@@ -15,7 +15,6 @@ class Benjamin:
     
     def say_hi(self):
         print("Thanks for stopping by!")
-        print("Let's build something cool 🚀")
 ```
 <div align="center">
   
