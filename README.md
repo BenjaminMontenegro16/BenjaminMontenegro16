@@ -45,19 +45,6 @@ class Benjamin:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BenjaminMontenegro16&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=39d353&cache_seconds=1800" alt="GitHub Streak"/>
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BenjaminMontenegro16&color=brightgreen&style=flat-square&label=Profile%20Views" alt="Views" />
-</p>
-
----
 
 ## 🏗️ Projects
 
