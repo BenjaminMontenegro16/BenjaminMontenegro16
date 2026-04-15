@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:39d353&height=200&section=header&text=Benjamin%20Montenegro&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Backend%20Engineer%20%7C%20Self-taught%20CS50%20Student&descSize=18&descAlignY=62&descColor=39d353)
 
+![Profile views](https://komarev.com/ghpvc/?username=BenjaminMontenegro16&color=brightgreen&style=for-the-badge)
+
 </div> 
 
 ---
