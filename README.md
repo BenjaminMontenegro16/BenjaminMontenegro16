@@ -11,8 +11,8 @@
 ```python
 class Benjamin:
     location  = "Misiones, Argentina 🌿"
-    role      = "Aspiring Backend Engineer"
-    studying  = ["Logic & Algorithms", "JavaScript", "Backend"]
+    role      = "Aspiring AI Engineer"
+    studying  = ["Logic & Algorithms", "JavaScript", "AI"]
     languages = ["English B2", "Spanish (Native)"]
     
     def say_hi(self):
